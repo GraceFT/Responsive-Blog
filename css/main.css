@@ -78,6 +78,10 @@ span img{
     color: #fff;
 }
 /*------------------SECTION-2------------------------------------*/
+.bloque{
+     padding: 0px 0;
+    text-align: center;
+}
 .bloque h3{
     color: #f7ba6a;
     font-style: italic;
@@ -87,12 +91,12 @@ span img{
     font-style: italic;
     font-size: 13px;
 }
-.block1, .block2, .block3{
+.col-1, .col-2, .col-3{
     width: 32%;
     float: left;
     background-color: #1c1821;
     box-sizing: border-box;
-    text-align: center;
+    margin-bottom: 3%;
 }
 .clearfix{
     display: table;
@@ -100,7 +104,7 @@ span img{
 .clearfix:after{
     content: " ";
 }
-.block1, .block2{
+.col-1, .col-2{
     margin-right: 2%;
 }
 .col-1 img, .col-2 img, .col-3 img{
