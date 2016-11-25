@@ -1,0 +1,73 @@
+/* Inserta tu codigo aqui */
+*{
+    outline: 1px solid rgba(0,255,0,0.3);
+    font-family: "Open Sans";
+}
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+/*------------------HEADER-------------------------------------*/
+header{
+    background-color: #1c1821;
+}
+.logo{
+    width: 250px;
+}
+.list-menu {
+   list-style: none;
+    float: right;
+}
+.list-menu li{
+    display: inline-block;
+}
+.list-menu a{
+    display: block;
+    color: #fff;
+    padding: 10px;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
