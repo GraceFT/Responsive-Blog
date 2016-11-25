@@ -113,7 +113,6 @@ span img{
 /*------------------SECTION-3------------------------------------*/
 .col-4 img, .col-5 img{
     width: 100%;
-    
 }
 .col-4, .col-5{
     float: left;
